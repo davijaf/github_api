@@ -30,6 +30,11 @@ Print of the finished project.
 
 In the project directory, you can run:
 
+### npx create-react-app github-app
+### npm start
+
+OR
+
 ### `yarn start`
 
 Runs the app in the development mode.\
